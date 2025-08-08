@@ -14,8 +14,7 @@ Users can draw polygons on a map, apply **rule-based color coding**, and explore
 <img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/3b86018c-ed43-45a7-b4bc-5f051fd3c96c" />
  
 
-**Polygon Drawing & Sidebar**  
-![Polygon Drawing](path/to/screenshot2.png)  
+
 
 ---
 
