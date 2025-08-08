@@ -5,16 +5,14 @@ Users can draw polygons on a map, apply **rule-based color coding**, and explore
 
 ---
 
-## 🔗 Live Demo
-[Live Demo URL](https://your-deployment-link.com) *(Replace with your Vercel/Netlify link after deployment)*
-
----
 
 ## 📸 Screenshots
-*(Replace these placeholders with actual screenshots)*
+<img width="1905" height="976" alt="image" src="https://github.com/user-attachments/assets/034cff69-4243-4f8a-8f5f-1a2302261439" />
+
 
 **Main Dashboard View**  
-![Main Dashboard](path/to/screenshot1.png)  
+<img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/3b86018c-ed43-45a7-b4bc-5f051fd3c96c" />
+ 
 
 **Polygon Drawing & Sidebar**  
 ![Polygon Drawing](path/to/screenshot2.png)  
